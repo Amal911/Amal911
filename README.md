@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal E A</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **about React.js and Node.js**
+- 🌱 I’m currently learning **React.js and Node.js**
 
 - 📫 How to reach me **amaleattath911@gmail.com**
 
